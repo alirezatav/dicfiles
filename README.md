@@ -1,2 +1,0 @@
-# dicfiles
-dic files
